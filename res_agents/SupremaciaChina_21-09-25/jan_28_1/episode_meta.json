@@ -1,0 +1,11 @@
+{
+    "agent_seed": 1227139268,
+    "backend_type": "LightSimBackend_input_data_test",
+    "chronics_max_timestep": "2016",
+    "chronics_path": "/home/marotant/dev/L2RPN_Codalab_Competition_Bundle/competition_codalab/L2RPN_icaps2021/input_data_test/chronics/jan_28_1",
+    "cumulative_reward": 491687.3125,
+    "env_seed": 2118338672,
+    "env_type": "Environment_input_data_test",
+    "grid_path": "/home/marotant/dev/L2RPN_Codalab_Competition_Bundle/competition_codalab/L2RPN_icaps2021/input_data_test/grid.json",
+    "nb_timestep_played": 790
+}
